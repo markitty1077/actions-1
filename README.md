@@ -1,3 +1,4 @@
+[![Vault Demo](https://github.com/markitty1077/actions-1/actions/workflows/vault-demo.yml/badge.svg)](https://github.com/markitty1077/actions-1/actions/workflows/vault-demo.yml)
 
 # Exploring Actions
 We will be learning GitHub Actions, 
